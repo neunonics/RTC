@@ -12,7 +12,7 @@ void setup()
     }
     RTC.begin();
 
-    DateTime A1, A2;
+    //DateTime A1, A2;
 
     Serial.println();
     Serial.println("*** RTC DS3231 ***");
